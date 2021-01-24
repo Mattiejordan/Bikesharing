@@ -1,27 +1,31 @@
 # Bikesharing
 
 
-	Convince investors that a bike-sharing program in Des Moines is a good idea by bike trip analyses.
+Convince investors that a bike-sharing program in Des Moines is a good idea by bike trip analyses.
 	
-	## Checkout Time for Users
+## Checkout Time for Users
 
-![Bikesharing/blob/main/Viz1](Bikesharing/blob/main/Viz1.PNG)
+![blob/main/Viz1](blob/main/Viz1.PNG)
+
 Describes the length of time that bikes are checked out for all riders.
 
-	## Checkout Times by Gender
+## Checkout Times by Gender
 ![Bikesharing/blob/main/Viz2](Bikesharing/blob/main/Viz2.PNG)
+
 Describes the length of time that bikes are checked out for each gender.
 See males are using the most bikes most frequently for 5 hours at a time.
 
-	## Trips by Weekday for Each Hour
+## Trips by Weekday for Each Hour
 ![Bikesharing/blob/main/Viz3](Bikesharing/blob/main/Viz3.PNG)
+
 See the number of bike trips by weekday for each hour in the heatmap format. 
 Saturday and Sunday patterns differ by having more bike trips midday opposed to
 the Monday through Friday pattern of bike trips frequenting the morning and evening hours.
 	
 
-	## Trips by Gender (Weekday per Hour)
+## Trips by Gender (Weekday per Hour)
 ![Bikesharing/blob/main/Viz4](Bikesharing/blob/main/Viz4.PNG)
+
 The number of bike trips by gender for each hour of each day of the week in heatmap format.
 The time activities of bike trips by gender do follow the same pattern, with an influx of bike 
 usage Monday-Friday at morning and evenings but the gender comparison does highlight that the count of males
@@ -72,6 +76,7 @@ is much greater than females at those times.
 	target their daily local commuters, especially the males, for their main usertype.
 	Information gleaned from the United Stated Census Bureau may be another vital source of numbers to analyze.
 	[https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219)
+
 	Des Moines itself is a growing metropolis but it does have a smaller population, nearly a tenth of the population per square mile compared to NYC. 
 
 Embed Tableau Public link
