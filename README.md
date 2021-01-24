@@ -57,13 +57,12 @@ Simply pie chart comparing bike users by male, female, or unknown gender declara
 largest NYC Citi Bike users. 
 	
 ## Module visualization: August Peak Hours	
-![Bikesharing/Viz9](Bikesharing/Viz9.PNG)
+![Viz9](Viz9.PNG)
 See bar chart for most frequent bike usuage hours of the day. Filter by hour of starttime.
 
 
 
-*Summary: Provide a high-level summary of the results and two additional 
-	visualizations that you would perform with the given dataset.
+## *Summary*
 
 In August of 2019 the data of NYC Citibike users can be broken down into many revelations of information.
 Before looking at the numbers evaluated one might assume NYC is typically flooded with tourists evenly
@@ -74,7 +73,8 @@ that is the main frequent usertype. Not just any subscriber, but especially the 
 NYC draws a great number males that use CitiBike for the Monday through Friday morning and evenings bike 
 rides. Is CitiBike their main method of commuting to work? Zoom into the map to follow the patterns of 
 top starting locations to draw conclusions. 
-![Bikesharing/Viz6.7](Bikesharing/Viz6.7.PNG)
+
+![Viz6.7](Viz6.7.PNG)
 
 	Given this pattern from NYC CitiBike Data one may present that another populous city may be able to successfully
 	target their daily local commuters, especially the males, for their main usertype.
