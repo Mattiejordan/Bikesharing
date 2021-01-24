@@ -1,38 +1,32 @@
 # Bikesharing
 
-*You must use the *five visualizations that you created in Deliverable 2.
-
-*You must use at *least two* visualizations that you created in this module.
-
-In your README markdown file, include the following:
-*Overview of the analysis: Explain the purpose of this analysis.
 
 	Convince investors that a bike-sharing program in Des Moines is a good idea by bike trip analyses.
-
-*Results: Using the visualizations you have in your Tableau Story, 
-	describe the results of each visualization underneath the image.
 	
 	## Checkout Time for Users
-	Describes the length of time that bikes are checked out for all riders.
-	image
+
+![Bikesharing/blob/main/Viz1](Bikesharing/blob/main/Viz1.PNG)
+Describes the length of time that bikes are checked out for all riders.
 
 	## Checkout Times by Gender
-	Describes the length of time that bikes are checked out for each gender.
-	See males are using the most bikes etc ..
-	image
+![Bikesharing/blob/main/Viz2](Bikesharing/blob/main/Viz2.PNG)
+Describes the length of time that bikes are checked out for each gender.
+See males are using the most bikes most frequently for 5 hours at a time.
 
 	## Trips by Weekday for Each Hour
-	See the number of bike trips by weekday for each hour in the heatmap format. 
-	Saturday and Sunday patterns differ by having more bike trips midday opposed to
-	the Monday through Friday pattern of bike trips frequenting the morning and evening hours.
-	image
+![Bikesharing/blob/main/Viz3](Bikesharing/blob/main/Viz3.PNG)
+See the number of bike trips by weekday for each hour in the heatmap format. 
+Saturday and Sunday patterns differ by having more bike trips midday opposed to
+the Monday through Friday pattern of bike trips frequenting the morning and evening hours.
+	
 
 	## Trips by Gender (Weekday per Hour)
-	The number of bike trips by gender for each hour of each day of the week in heatmap format.
-	The time activities of bike trips by gender do follow the same pattern, with an influx of bike 
-	usage Monday-Friday at morning and evenings but the gender comparison does highlight that the count of males
-	is much greater than females at those times.
-	image
+![Bikesharing/blob/main/Viz4](Bikesharing/blob/main/Viz4.PNG)
+The number of bike trips by gender for each hour of each day of the week in heatmap format.
+The time activities of bike trips by gender do follow the same pattern, with an influx of bike 
+usage Monday-Friday at morning and evenings but the gender comparison does highlight that the count of males
+is much greater than females at those times.
+
 
 	## Trips by Gender by Weekday
 	Shows the number of bike trips by gender for each hour for each weekday. Also has the filter
